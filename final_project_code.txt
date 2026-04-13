@@ -13,16 +13,16 @@ GDCprepare()
 
 
 clinical analysis
-i am doing my analysis here!!! - person 1
-moreee editing!!
+Code:
 
 
 genomics
-
+Code:
 
 
 transcriptomics
-i am doing analysis here!!! - person 2
+Code:
 
 
 epigenomics
+Code:
