@@ -13,7 +13,7 @@ GDCprepare()
 
 
 clinical analysis
-Code: clinical variable. analysis. - person1
+Code:
 
 
 genomics
@@ -21,7 +21,7 @@ Code:
 
 
 transcriptomics
-Code: code code code code - person 2
+Code:
 
 
 epigenomics
